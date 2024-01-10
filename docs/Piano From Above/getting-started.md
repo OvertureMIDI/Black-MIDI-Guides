@@ -19,3 +19,4 @@ First, download the version you can use. 32-bit is for x86 OSes, 64-bit is for x
 ??? note "How do i know if im on x86 or x64?"
 
     First, type in the search bar "System Information" and open it. In the "System Type" line you will see if you're on x64 or x86.
+    ![System Informtion](/images/64BasedPC.png)
