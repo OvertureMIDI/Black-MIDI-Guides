@@ -1,5 +1,8 @@
 # Black MIDI Guides
 
+[![Built with Material for MkDocs](https://img.shields.io/badge/Material_for_MkDocs-526CFE?style=flat&logo=MaterialForMkDocs&logoColor=white)](https://squidfunk.github.io/mkdocs-material/)
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/6gh/Black-MIDI-Guides/main?style=flat&label=last%20updated&color=%230066ff)
+
 Welcome to Black MIDI Guides. Here you will find guides for a bunch of things people often ask help with in Black MIDI Communities
 
 ## Purpose
