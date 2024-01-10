@@ -1,3 +1,6 @@
 nav:
     - Home: index.md
     - Getting Started: getting-started.md
+    - Configuring Audio: configuring-audio.md
+    - Setting Up Keybinds: keybinds.md
+    - Installing Dominohook: dominohook.md
