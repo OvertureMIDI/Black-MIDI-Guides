@@ -1,0 +1,32 @@
+name: Build and Deploy Docs
+
+on:
+    push:
+        branches:
+            - main
+
+jobs:
+    deploy:
+        name: Deploy docs
+        runs-on: ubuntu-latest
+        permissions:
+            contents: write
+        steps:
+            - name: Checkout repository
+              uses: actions/checkout@v4.1.1
+              with:
+                  fetch-depth: "0"
+            - name: Configure Git Credentials
+              run: |
+                  git config user.name github-actions[bot]
+                  git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+            - name: Set up Python
+              uses: actions/setup-python@v5.0.0
+              with:
+                  python-version: 3.x
+            - name: Install dependencies
+              run: pip install -r docs/requirements.txt
+            - name: Build documentation
+              run: mkdocs build
+            - name: Deploy to GitHub Pages
+              run: mkdocs gh-deploy --force
