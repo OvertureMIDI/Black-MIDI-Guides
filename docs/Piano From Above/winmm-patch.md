@@ -1,7 +1,8 @@
 # WinMM Patch
 This guide will help you install OmniMIDI and patch PFA.
 
-## Downloading OmniMDI
+## Downloading OmniMIDI
+> TODO: Move OmniMIDI set up to its own guide
 To download OmniMIDI, click [here](https://github.com/KeppySoftware/OmniMIDI/releases/download/14.8.5.0/OmniMIDISetup.exe) to download the latest setup as of 1/10/2024.
 
 ## Adding soundfonts
@@ -21,5 +22,6 @@ Then, go to where your PFA exe is, select it and it should be patched.
 
 ??? note "Why cant i patch it?"
 
-    If it says you dont have the permissions to do this, press OK and run the configurator as an administrator. (The configurator should automatically run it as an admin after OK but i dont remember.)
+    If it says you dont have the permissions to do this, press OK and run the configurator as an administrator. (The configurator should automatically run it as an admin after OK but I dont remember.)
+    > TODO: Test this out
 
