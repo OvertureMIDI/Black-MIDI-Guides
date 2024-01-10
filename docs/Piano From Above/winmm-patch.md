@@ -8,3 +8,4 @@ To download OmniMIDI, click [here](https://github.com/KeppySoftware/OmniMIDI/rel
 After installing OmniMIDI and opening the configurator, its time to add a soundfont so the synth has audio.
 
 First, click the + in the configurator window.
+![Configurator](/images/AddingSFs.png)
