@@ -1,16 +1,14 @@
-name: Build and Deploy Docs
+name: Build Docs
 
 on:
-    push:
+    pull_request:
         branches:
             - main
 
 jobs:
-    deploy:
-        name: Deploy docs
+    build:
+        name: Build docs
         runs-on: ubuntu-latest
-        permissions:
-            contents: write
         steps:
             - name: Checkout repository
               uses: actions/checkout@v4.1.1
@@ -28,6 +26,4 @@ jobs:
             - name: Install dependencies
               run: pip install -r docs/requirements.txt
             - name: Build documentation
-              run: mkdocs build
-            - name: Deploy to GitHub Pages
-              run: mkdocs gh-deploy --force
+              run: TZ=UTC mkdocs build
