@@ -10,7 +10,7 @@ This guide will help you get started on downloading and setting up Domino for th
 
     -   [The normal 32-bit version](https://takabosoft.com/domino)
     -   [The community-translated version](https://github.com/Hans5958/Domino-English-Translation/releases/latest)
-    -   [The 64-bit dev version]()
+    -   [The 64-bit dev version](download/Domino145_dev002_x64.zip)
 
     You are free to choose any version you'd wish to use, but I will be using the english translated version.
 
