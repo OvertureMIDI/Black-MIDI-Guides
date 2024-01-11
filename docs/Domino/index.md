@@ -25,4 +25,5 @@ These guides will focus on using the community-translated english version, and s
 Here are some of the common things people ask for when dealing with Domino.
 
 -   [Getting Started](getting-started.md)
+-   [Configuring Audio](configuring-audio.md)
 -   [4GB Patch](4gb-patch.md)
