@@ -12,8 +12,9 @@ Next, unzip the file with any file manager you want (winrar, 7zip, winzip, ect..
 
 When you open the patcher, it should open a Windows Explorer window. In the explorer, go to the location of your `Domino.exe`, select it and click "Open".
 
-If done correctly, you should see something like this:
+!!! note "If done correctly you should see something like this:"
 
-[Image should be here after i add it to the images folder]
+     ![thing](images/4gb_patch.jpg)
+   
 
 Domino is now patched! It can now use up to 4GB of memory and up to 80 million notes!
