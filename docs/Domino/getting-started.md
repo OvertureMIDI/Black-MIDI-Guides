@@ -18,11 +18,11 @@ First, download the version of Domino you wish to use.
 
 ??? note "For the english translated version, you will want the **zip version**."
 
-    ![Download ZIP file](images/domino-english-zip.png)
+    ![Download ZIP file](images/EnglishZIPOption.png)
 
 Unzip the file you downloaded anywhere you'd like and you should see the following files:
 
-![Manual folder, Module folder, System folder, Domino.exe, readme.txt](images/domino-file-structure.png)
+![Manual folder, Module folder, System folder, Domino.exe, readme.txt](images/FileStructure.png)
 
 Congratulations, you have successfully installed Domino. Feel free to create a shortcut or something to your Desktop or pin to your taskbar.
 
