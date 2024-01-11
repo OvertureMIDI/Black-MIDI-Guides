@@ -1,6 +1,12 @@
 # Applying the 4GB Patch
 
-Domino's english translation is a 32-bit program which means it can use up to 2GB of memory and around 22 million notes. Let's fix that by adding a 4GB patch!
+Domino is a 32-bit program which means it is limited to only use up to 2GB of memory and around 22 million notes. Let's fix that by adding a 4GB patch, allowing the program to use up to 4GB of memory!
+
+!!! warning "Only applies to 32-bit versions"
+
+    This patch is only applicable for the 32-bit versions of Domino.
+    These include the official builds and the English translation build.
+    **This is not applicable to the 64-bit dev build.**
 
 ## Installing the patcher
 
@@ -14,7 +20,6 @@ When you open the patcher, it should open a Windows Explorer window. In the expl
 
 !!! note "If done correctly you should see something like this:"
 
-     ![thing](images/4gb_patch.jpg)
-   
+     ![4GB Patch Success](images/4GBPatch.jpg)
 
 Domino is now patched! It can now use up to 4GB of memory and up to 80 million notes!
