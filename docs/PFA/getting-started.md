@@ -60,8 +60,10 @@ Open this file up in any text editor and edit line 3 where it says `FirstKey` to
 
 The line should now look something like this:
 
-```xml
-<Visual KeysShown="0" AlwaysShowControls="0" AssociateFiles="0" FirstKey="0" LastKey="127">
+```xml title="Config.xml" linenums="1" hl_lines="3"
+<?xml version="1.0" ?>
+<PianoFromAbove>
+    <Visual KeysShown="0" AlwaysShowControls="0" AssociateFiles="0" FirstKey="0" LastKey="127">
 ```
 
 Save and close the file. Now restart your PFA and you should now see 128 keys at all times.

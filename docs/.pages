@@ -1,4 +1,5 @@
 nav:
     - Home: index.md
     - Domino
-    - Piano From Above
+    - Piano From Above: PFA
+    - OmniMIDI

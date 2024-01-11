@@ -17,9 +17,11 @@ On the toolbar, click the wrench icon to open up your preferences. You can also 
 
 In the preferences, you will want to head to MIDI-OUT and click the OmniMIDI option under MIDI OUT for A-P.
 
-![MIDI OUT Setup EN](images/en-ui/MIDIOutSetup.png)
+=== "English UI"
 
-??? note "Japanese UI"
+    ![MIDI OUT Setup EN](images/en-ui/MIDIOutSetup.png)
+
+=== "Japanese UI"
 
     ![MIDI OUT Setup JP](images/jp-ui/MIDIOutSetup.png)
 
