@@ -1,0 +1,7 @@
+nav:
+    - Home: index.md
+    - Getting Started: getting-started.md
+    - Configuring Audio: configuring-audio.md
+    - Installing Dominohook: dominohook.md
+    - Applying the 4GB Patch: 4gb-patch.md
+    - Setting Up Keybinds: keybinds.md
