@@ -36,17 +36,22 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://guides.blackmidi.wiki/Piano%20From%20Above/</loc>
+         <loc>https://guides.blackmidi.wiki/OmniMIDI/</loc>
          <lastmod>2024-01-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://guides.blackmidi.wiki/Piano%20From%20Above/getting-started/</loc>
+         <loc>https://guides.blackmidi.wiki/PFA/</loc>
          <lastmod>2024-01-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://guides.blackmidi.wiki/Piano%20From%20Above/winmm-patch/</loc>
+         <loc>https://guides.blackmidi.wiki/PFA/getting-started/</loc>
+         <lastmod>2024-01-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://guides.blackmidi.wiki/PFA/winmm-patch/</loc>
          <lastmod>2024-01-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
