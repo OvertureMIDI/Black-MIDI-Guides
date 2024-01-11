@@ -3,18 +3,23 @@ site_description: Guides for a bunch of things people often ask for help with in
 site_author: 6gh
 site_url: https://guides.blackmidi.wiki/
 
-repo_url: https://github.com/6gh/Black-MIDI-Guides
+repo_url: https://github.com/OvertureMIDI/Guides
 repo_name: Black-MIDI-Guides
+edit_uri: edit/main/docs/
 
-copyright: Copyright &copy; 2024 6gh
+copyright: Copyright &copy; 2024 OvertureMIDI
 
 theme:
     name: material
+    logo: assets/logo.svg
+    favicon: assets/logo.svg
     features:
         - navigation.instant
         - navigation.instant.progress
         - navigation.tabs
         - search.highlight
+        - content.action.view
+        - content.action.edit
     palette:
         # Palette toggle for light mode
         - media: "(prefers-color-scheme: light)"
@@ -29,10 +34,36 @@ theme:
           toggle:
               icon: material/brightness-4
               name: Switch to light mode
+
 plugins:
     - privacy
     - awesome-pages
+    - git-authors:
+          show_email_address: false
+          sort_authors_by: name
+          show_contribution: false
+          exclude:
+              - index.md
+    - git-revision-date-localized:
+          fallback_to_build_date: true
+          type: date
+          exclude:
+              - index.md
+
 markdown_extensions:
     - admonition
     - pymdownx.details
     - pymdownx.superfences
+    - attr_list
+    - pymdownx.emoji:
+          emoji_index: !!python/name:material.extensions.emoji.twemoji
+          emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+extra:
+    social:
+        - icon: fontawesome/brands/github
+          link: https://github.com/OvertureMIDI/Guides
+          name: GitHub Repository
+        - icon: material/email-edit
+          link: mailto:contact@blackmidi.wiki
+          name: Contact Email
