@@ -18,7 +18,7 @@ Domino has 3 versions of which you can choose:
 
 The normal 32-bit version and the 64-bit dev version are japanese only. This will require you to [install the Japanese Language Pack for your system](https://support.microsoft.com/en-us/windows/language-packs-for-windows-a5094319-a92d-18de-5b53-1cfc697cfca8). The community-translated version is **only for a 32-bit exe as of right now**.
 
-These guides will focus on using the community-translated english version, and so screenshots shown will be of the english version. There will also be a screenshot of the japanese versions available through a dropdown in each guide.
+These guides will focus on using the community-translated english version, but screenshots of both the english and japanese versions are provided.
 
 ## Common Links
 

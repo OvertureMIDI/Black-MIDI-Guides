@@ -20,6 +20,8 @@ theme:
         - search.highlight
         - content.action.view
         - content.action.edit
+        - content.tabs.link
+        - content.code.copy
     palette:
         # Palette toggle for light mode
         - media: "(prefers-color-scheme: light)"
@@ -54,10 +56,17 @@ markdown_extensions:
     - admonition
     - pymdownx.details
     - pymdownx.superfences
+    - pymdownx.highlight:
+          anchor_linenums: true
+          use_pygments: true
+    - pymdownx.tabbed:
+          alternate_style: true
     - attr_list
     - pymdownx.emoji:
           emoji_index: !!python/name:material.extensions.emoji.twemoji
           emoji_generator: !!python/name:material.extensions.emoji.to_svg
+    - toc:
+          permalink: true
 
 extra:
     social:

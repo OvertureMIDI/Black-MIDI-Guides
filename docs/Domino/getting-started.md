@@ -36,9 +36,11 @@ On the toolbar, click the wrench icon to open up your preferences. You can also 
 
 Click on the 2nd option, and change "Notes on the same tick and key" to "Keep"
 
-![Change to keep EN](images/en-ui/OverlappingNotesSetting.png)
+=== "English UI"
 
-??? note "Japanese UI"
+    ![Change to keep EN](images/en-ui/OverlappingNotesSetting.png)
+
+=== "Japanese UI"
 
     ![Change to keep EN](images/jp-ui/OverlappingNotesSetting.png)
 
