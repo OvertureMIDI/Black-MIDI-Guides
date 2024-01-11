@@ -2,17 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://guides.blackmidi.wiki/</loc>
-         <lastmod>2024-01-10</lastmod>
+         <lastmod>2024-01-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://guides.blackmidi.wiki/Domino/</loc>
-         <lastmod>2024-01-10</lastmod>
+         <lastmod>2024-01-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://guides.blackmidi.wiki/Domino/4gb-patch/</loc>
+         <lastmod>2024-01-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://guides.blackmidi.wiki/Domino/configuring-audio/</loc>
+         <lastmod>2024-01-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://guides.blackmidi.wiki/Domino/dominohook/</loc>
+         <lastmod>2024-01-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://guides.blackmidi.wiki/Domino/getting-started/</loc>
-         <lastmod>2024-01-10</lastmod>
+         <lastmod>2024-01-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://guides.blackmidi.wiki/Domino/keybinds/</loc>
+         <lastmod>2024-01-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://guides.blackmidi.wiki/Piano%20From%20Above/</loc>
+         <lastmod>2024-01-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://guides.blackmidi.wiki/Piano%20From%20Above/getting-started/</loc>
+         <lastmod>2024-01-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://guides.blackmidi.wiki/Piano%20From%20Above/winmm-patch/</loc>
+         <lastmod>2024-01-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
