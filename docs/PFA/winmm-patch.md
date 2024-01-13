@@ -14,7 +14,7 @@ After installing OmniMIDI and opening the configurator, its time to add a soundf
 
 First, click the + in the configurator window.
 
-![Configurator window](https://github.com/GreenWeegeeCantCode/Black-MIDI-Guides/blob/main/docs/Piano%20From%20Above/images/AddingSFs.png)
+[Configurator window](https://github.com/GreenWeegeeCantCode/Black-MIDI-Guides/blob/main/docs/Piano%20From%20Above/images/AddingSFs.png)
 
 Next, select the soundfont you want and press open. Now you have a soundfont that will be used in applications that use the synth!
 
