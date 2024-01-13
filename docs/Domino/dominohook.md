@@ -8,7 +8,7 @@ Dominohook adds new features like replaced zoom handling functions, string patch
 
 !!! warning "Only tested with english translation"
 
-    Dominohook has been tested with the english translation, the japanese versions haven't been tested for this guide. If you get dominohook working with the japanese 32-bit version submit an issue here.
+    Dominohook has been tested with the english translation, the japanese versions haven't been tested for this guide. If you get dominohook working with the japanese 32-bit version submit an issue to the github repository.
 
 
 To install Dominohook, download the latest release [here](https://github.com/khang06/dominohook/releases/download/3.0.1/dominohook.dll), then install [Stud_PE](https://www.cgsoftlabs.ro/studpe.html).
