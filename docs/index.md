@@ -18,3 +18,13 @@ As I don't have _a lot_ of experience in blacking, some guides might not be the 
 You can help contribute by submitting a pull request on the [Github repo for this project](https://github.com/6gh/Black-MIDI-Guides).
 
 You are free to help out in any possible way you think you can expand, or improve on this project. Things such as creating new guides, elaborating on existing guides, or even just fixing any simple typos or grammatical errors are very welcome! So thank you if you choose to contribute to the project!
+
+### Contributors
+
+<a href="https://github.com/OvertureMIDI/Guides/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=OvertureMIDI/Guides" />
+</a>
+
+??? info "Made with contrib.rocks"
+
+    Contributors image made possible with [contrib.rocks](https://contrib.rocks).
