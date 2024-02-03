@@ -1,2 +1,5 @@
 nav:
     - Home: index.md
+    - Getting Started: getting-started.md
+    - Soundfonts
+    - WinMM Patch: winmm-patch.md

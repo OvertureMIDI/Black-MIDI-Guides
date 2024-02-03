@@ -24,4 +24,4 @@ These guides will focus on the official versions of PFA.
 Here are some links to things people typically ask for regarding PFA.
 
 - [Getting Started](getting-started.md)
-- [WinMM Patch](winmm-patch.md)
+- [WinMM Patch](../OmniMIDI/winmm-patch.md)
