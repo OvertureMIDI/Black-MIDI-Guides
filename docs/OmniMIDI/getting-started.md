@@ -27,27 +27,27 @@ Make sure to allow it admin privliges and you will now see an installer pop up. 
 
     === "Start"
 
-        ![Start page of installer](images/installer/start.png)
+        ![Start page of installer](images/installer/SetupWizard.png)
 
     === "Before Install"
 
-        ![Page before installation](images/installer/before_install.png)
+        ![Page before installation](images/installer/ConfirmInstall.png)
 
     === "Installed"
 
-        ![Dialog upon successful install](images/installer/installed.png)
+        ![Dialog upon successful install](images/installer/SuccessfulInstall.png)
 
     === "Finalizing"
 
         !!! note "Make sure that 'Run the configurator' is checked"
 
-        ![Tick the box to configure OmniMIDI](images/installer/final.png)
+        ![Tick the box to configure OmniMIDI](images/installer/FinishedInstallation.png)
 
 ## First Launch
 
 When first loading up OmniMIDI, you will be presented with the following screen. In the dropdown, select "Stable branch" and then click OK. This will only update OmniMIDI every stable release.
 
-![Update Branches](images/configuration/update_branch.png)
+![Update Branches](images/configuration/SelectUpdateBranch.png)
 
 The next screen will ask you to donate. If you would like to donate to support the dev of OmniMIDI, feel free to do so. If not, click either "Remind me next month" or "Never show me this again."
 
@@ -57,9 +57,9 @@ Now you should arrive at the main screen of the OmniMIDI configurator! You are n
 
     If and when you close this window you can always open it back up by searching for "Configure OmniMIDI" in the start menu.
 
-![Main confirgation screen]()
+![Main confirgation screen](images/configuration/Configurator.png)
 
 Here are some links to helpful things you can configure in OmniMIDI.
 
--   [Adding Soundfonts]()
+-   [Adding Soundfonts](Soundfonts/configuration.md)
 -   [WinMM Patch](winmm-patch.md)

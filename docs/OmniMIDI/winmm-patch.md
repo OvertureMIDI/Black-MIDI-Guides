@@ -2,6 +2,8 @@
 
 This guide will help you patch PFA.
 
+> TODO: Add images
+
 ## Patching PFA
 
 In the configurator window, go to "extensions" and select "Windows Multimedia Wrapper"
