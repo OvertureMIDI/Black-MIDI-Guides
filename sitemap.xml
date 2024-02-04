@@ -2,57 +2,72 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://guides.blackmidi.wiki/</loc>
-         <lastmod>2024-01-11</lastmod>
+         <lastmod>2024-02-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://guides.blackmidi.wiki/Domino/</loc>
-         <lastmod>2024-01-11</lastmod>
+         <lastmod>2024-02-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://guides.blackmidi.wiki/Domino/4gb-patch/</loc>
-         <lastmod>2024-01-11</lastmod>
+         <lastmod>2024-02-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://guides.blackmidi.wiki/Domino/configuring-audio/</loc>
-         <lastmod>2024-01-11</lastmod>
+         <lastmod>2024-02-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://guides.blackmidi.wiki/Domino/dominohook/</loc>
-         <lastmod>2024-01-11</lastmod>
+         <lastmod>2024-02-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://guides.blackmidi.wiki/Domino/getting-started/</loc>
-         <lastmod>2024-01-11</lastmod>
+         <lastmod>2024-02-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://guides.blackmidi.wiki/Domino/keybinds/</loc>
-         <lastmod>2024-01-11</lastmod>
+         <lastmod>2024-02-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://guides.blackmidi.wiki/OmniMIDI/</loc>
-         <lastmod>2024-01-11</lastmod>
+         <lastmod>2024-02-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://guides.blackmidi.wiki/OmniMIDI/getting-started/</loc>
+         <lastmod>2024-02-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://guides.blackmidi.wiki/OmniMIDI/winmm-patch/</loc>
+         <lastmod>2024-02-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://guides.blackmidi.wiki/OmniMIDI/Soundfonts/configuration/</loc>
+         <lastmod>2024-02-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://guides.blackmidi.wiki/OmniMIDI/Soundfonts/recommendations/</loc>
+         <lastmod>2024-02-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://guides.blackmidi.wiki/PFA/</loc>
-         <lastmod>2024-01-11</lastmod>
+         <lastmod>2024-02-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://guides.blackmidi.wiki/PFA/getting-started/</loc>
-         <lastmod>2024-01-11</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://guides.blackmidi.wiki/PFA/winmm-patch/</loc>
-         <lastmod>2024-01-11</lastmod>
+         <lastmod>2024-02-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
