@@ -25,7 +25,7 @@ Pros:
 
 Cons:
 
-? ToDo: Add Cons
+> ToDo: Add Cons
 
 - Very slow when rendering (unless using the modded version)
 
@@ -54,6 +54,7 @@ Cons:
 ## Common Links
 
 > ToDo: Making another page.
+
 Here are some of the common things people ask for when rendering a Black MIDI.
 
 -   Rendering using Zenith
