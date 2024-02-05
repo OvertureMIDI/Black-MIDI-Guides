@@ -15,6 +15,8 @@ Zenith has 2 versions which you can choose to start with:
 -   [The original Zenith](https://github.com/arduano/Zenith-MIDI), made by Arduano
 -   [Modded version](https://github.com/null7323/Zenith-MIDI-Modded), made by null7323
 
+![Original Zenith Application when started](images/ZenithPreview.png)
+
 Pros:
 
 - Good for starters.
@@ -34,6 +36,8 @@ Cons:
     Ultralight MIDI Player (abbreviated as UMP) is a Java-based Black MIDI renderer developed by PipiraMine. Not only for rendering, it is also possible to play Black MIDI there. It is known to the community because of how fast it goes when rendering and customizing the skins.
 
 UMP has both release and beta versions. The release version has no bugs meanwhile beta version has early features included. 
+
+![UMP playing a MIDI](images\UMPPreview.png)
 
 Pros:
 
