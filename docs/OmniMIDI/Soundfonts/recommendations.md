@@ -8,9 +8,12 @@ Here are some great soundfonts which we recommend you to use for you endevaours 
 
 ## Arachno
 
-Arachno is a really nice soundfont, it's one of the most used soundfonts in the Black MIDI Conmunity.
+Arachno is a really nice soundfont, it's one of the most used soundfonts in the Black MIDI Conmunity for GM sounds.
 It has a lot of instruments, such as drums, percussion and more!
 The download page for arachno can be found on the [Arachnosoft website.](https://www.arachnosoft.com/main/download.php?id=soundfont-sf2)
+
+You will get multiple download options, i recommend using the "Google Drive" one.
+
 
 Arachno is mainly a .sfARK file, however the download above is the .sf2 version which can be used in most synth's, including OmniMIDI
 
