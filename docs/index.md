@@ -5,6 +5,12 @@
 
 Welcome to Black MIDI Guides. Here you will find guides for a bunch of things people often ask help with in Black MIDI Communities
 
+## Start
+
+!!! info "Are you a complete beginner at Black MIDI, and don't know where to start?"
+
+    Go to the [Starting Section](Start/) to start your Black MIDI journey and learn what programs do what so you can know what you want to do!
+
 ## Purpose
 
 A lot of times in Black MIDI communities, people often ask how to x, how to y, whats the best way to do z, etc. So I've taken the initiative to try to make guides to help newcomers get started on the right foot on their Black MIDI journey. My goal is to provide easy to follow guides for a variety of things, and perhaps even video tutorials to along with them!

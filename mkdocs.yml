@@ -7,12 +7,14 @@ repo_url: https://github.com/OvertureMIDI/Guides
 repo_name: Black-MIDI-Guides
 edit_uri: edit/main/docs/
 
-copyright: Copyright &copy; 2024 OvertureMIDI
+copyright: Copyright &copy; 2024 6gh
 
 theme:
     name: material
     logo: assets/logo.svg
     favicon: assets/logo.svg
+    icon:
+        annotation: material/arrow-right-circle
     features:
         - navigation.instant
         - navigation.instant.progress
@@ -55,6 +57,7 @@ plugins:
 markdown_extensions:
     - admonition
     - pymdownx.details
+    - md_in_html
     - pymdownx.superfences
     - pymdownx.highlight:
           anchor_linenums: true
