@@ -1,0 +1,5 @@
+nav:
+    - Start: index.md
+    - Creating MIDIs: creating.md
+    - Playing MIDIs: playing.md
+    - Rendering MIDIs: Rendering
