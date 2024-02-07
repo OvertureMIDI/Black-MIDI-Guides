@@ -13,6 +13,8 @@ theme:
     name: material
     logo: assets/logo.svg
     favicon: assets/logo.svg
+    icon:
+        annotation: material/arrow-right-circle
     features:
         - navigation.instant
         - navigation.instant.progress
@@ -55,6 +57,7 @@ plugins:
 markdown_extensions:
     - admonition
     - pymdownx.details
+    - md_in_html
     - pymdownx.superfences
     - pymdownx.highlight:
           anchor_linenums: true

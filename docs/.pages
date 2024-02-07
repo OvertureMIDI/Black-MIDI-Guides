@@ -1,6 +1,6 @@
 nav:
     - Home: index.md
+    - Start Here: Start
     - Domino
     - Piano From Above: PFA
     - OmniMIDI
-    - Render
