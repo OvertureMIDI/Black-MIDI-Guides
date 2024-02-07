@@ -7,7 +7,7 @@ repo_url: https://github.com/OvertureMIDI/Guides
 repo_name: Black-MIDI-Guides
 edit_uri: edit/main/docs/
 
-copyright: Copyright &copy; 2024 OvertureMIDI
+copyright: Copyright &copy; 2024 6gh
 
 theme:
     name: material
