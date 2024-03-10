@@ -19,7 +19,7 @@ You can help contribute by submitting a pull request on the [Github repo for thi
 
 You are free to help out in any possible way you think you can expand, or improve on this project. Things such as creating new guides, elaborating on existing guides, or even just fixing any simple typos or grammatical errors are very welcome! So thank you if you choose to contribute to the project!
 
-Find more information [in the GitHub repo](https://github.com/6gh/Black-MIDI-Guides/tree/main/CONTRIBUTING.md).
+Find more information [in the GitHub repo](https://github.com/6gh/Black-MIDI-Guides/tree/main/.github/CONTRIBUTING.md).
 
 ### Contributors
 

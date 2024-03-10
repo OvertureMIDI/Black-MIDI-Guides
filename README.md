@@ -6,3 +6,7 @@
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/6gh/Black-MIDI-Guides/main?style=flat&label=last%20updated&color=%230066ff)
 
 Guides for a bunch of things people often ask for help with in Black MIDI Communities. https://guides.blackmidi.wiki/
+
+## Contributing
+
+For information on how to contribute, please visit the [Contributing guide](.github/CONTRIBUTING.md)
